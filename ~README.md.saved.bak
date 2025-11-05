@@ -1,9 +1,5 @@
 # BRMW – Online Appendix, Data, and Code
 
-[![Python 3.9+](https://img.shields.io/badge/Python-3.9+-blue.svg)](https://www.python.org/downloads/)
-[![StatsModels](https://img.shields.io/badge/StatsModels-0.14+-orange.svg)](https://www.statsmodels.org/)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
-
 This repository accompanies the article:
 
 > **"Being Ranked in a Material World: The Visual Originality of an Artwork and Its Effects on the Artist’s Canonization"**
