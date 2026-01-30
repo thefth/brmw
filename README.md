@@ -6,7 +6,7 @@
 
 This repository accompanies the article:
 
-> **[Being Ranked in a Material World: The Visual Originality of an Artwork and Its Effects on the Artist’s Canonization](https://doi.org/10.1177/01708406251397720)**  
+> **[Being Ranked in a Material World: The visual originality of an artwork and its effects on the artist’s canonization](https://doi.org/10.1177/01708406251397720)**  
 > Athanasios Efthymiou, Stevan Rudinac, Monika Kackovic, Marcel Worring, and Nachoem Wijnberg  
 > *Organization Studies*, 2025
 
@@ -38,7 +38,7 @@ If you use the WikiArt datasets or code from this repository in your research, p
 ```bibtex
 @article{efthymiou2025brmw,
 author  = {Efthymiou, Athanasios and Kackovic, Monika and Rudinac, Stevan and Worring, Marcel and Wijnberg, Nachoem M.},
-title   = {Being Ranked in a Material World: The Visual Originality of an Artwork and Its Effects on the Artist’s Canonization},
+title   = {Being Ranked in a Material World: The visual originality of an artwork and its effects on the artist’s canonization},
 journal = {Organization Studies},
 year    = {2025},
 doi     = {10.1177/01708406251397720},
