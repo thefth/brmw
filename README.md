@@ -1,4 +1,4 @@
-# BRMW – Online Appendix, Data, and Code
+# BRMW – Data and Code
 
 [![Python 3.9+](https://img.shields.io/badge/Python-3.9+-blue.svg)](https://www.python.org/downloads/)
 [![StatsModels](https://img.shields.io/badge/StatsModels-0.14+-orange.svg)](https://www.statsmodels.org/)
@@ -14,7 +14,7 @@ This repository accompanies the article:
 
 ## Overview
 
-This repository provides the materials referenced in the paper’s Online Appendix, along with the data and code used in the analyses.  
+This repository provides the paper’s data and code. 
 
 ---
 
