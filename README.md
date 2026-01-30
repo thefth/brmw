@@ -6,9 +6,9 @@
 
 This repository accompanies the article:
 
-> **"Being Ranked in a Material World: The Visual Originality of an Artwork and Its Effects on the Artist’s Canonization"**
-> Athanasios Efthymiou, Stevan Rudinac, Monika Kackovic, Marcel Worring, and Nachoem Wijnberg    
-> *In Organization Studies*, 2025.  
+> **[Being Ranked in a Material World: The Visual Originality of an Artwork and Its Effects on the Artist’s Canonization](https://doi.org/10.1177/01708406251397720)**  
+> Athanasios Efthymiou, Stevan Rudinac, Monika Kackovic, Marcel Worring, and Nachoem Wijnberg  
+> *Organization Studies*, 2025
 
 ---
 
@@ -21,8 +21,6 @@ This repository provides the materials referenced in the paper’s Online Append
 ## Repository Structure
 ```
 brmw/
-├── online-appendix/
-│   ├── BRMW_Online_Appendix.docx
 ├── data/
 │   ├── brmw_dataset.csv
 ├── code/
@@ -42,9 +40,9 @@ If you use the WikiArt datasets or code from this repository in your research, p
 author  = {Efthymiou, Athanasios and Kackovic, Monika and Rudinac, Stevan and Worring, Marcel and Wijnberg, Nachoem M.},
 title   = {Being Ranked in a Material World: The Visual Originality of an Artwork and Its Effects on the Artist’s Canonization},
 journal = {Organization Studies},
-volume = {0},
-number = {ja},
-year = {2025}
+year    = {2025},
+doi     = {10.1177/01708406251397720},
+url     = {https://doi.org/10.1177/01708406251397720}
 }
 ```
 
