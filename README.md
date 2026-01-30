@@ -37,7 +37,7 @@ brmw/
 If you use the WikiArt datasets or code from this repository in your research, please cite:
 ```bibtex
 @article{efthymiou2025brmw,
-author  = {Efthymiou, Athanasios and Kackovic, Monika and Rudinac, Stevan and Worring, Marcel and Wijnberg, Nachoem M.},
+author  = {Athanasios Efthymiou and Monika Kackovic and Stevan Rudinac and Marcel Worring and Nachoem Wijnberg},
 title   = {Being Ranked in a Material World: The visual originality of an artwork and its effects on the artist’s canonization},
 journal = {Organization Studies},
 year    = {2025},
